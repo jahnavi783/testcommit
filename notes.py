@@ -1,0 +1,1 @@
+print("This is a notes file for tracking project development.")

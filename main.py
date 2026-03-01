@@ -5,7 +5,7 @@ from config import APP_NAME
 def run():
     print(f"Welcome to {APP_NAME}")
     
-    name = input("Enter your name and the details: ")
+    name = input("Enter your name")
     greet_user(name)
     
     result = add_numbers(5, 3)
