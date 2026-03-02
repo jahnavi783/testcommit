@@ -1,1 +1,1 @@
-print("Hello from notes.py!")
+print("Hello from notes.py! this is the notes file where we can jot down important information.")
